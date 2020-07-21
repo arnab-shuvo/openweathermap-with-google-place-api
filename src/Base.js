@@ -1,0 +1,2 @@
+export const GOOGLE = 'YOUR GOOGLE API KEY';
+export const WEATHER = 'YOUR OPEN WEATHER MAP API KEY';
